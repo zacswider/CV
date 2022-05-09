@@ -32,10 +32,10 @@ _Extensive experience using insect and mammalian cell culture for knockdown scre
 _Co-managed a shared imaging facility (1 Bruker swept field confocal, 1 Prairie point scanning confocal, 1 Olympus FV1000 confocal, 1 Flamingo light sheet system) to maximize system use, minimize the impact of routine maintenance, and enhance system features. Educated new users on system features, analysis techniques, and best practices._
 
 ## Research experience
-**2017 – 2022 | University of Wisconsin – Madison | Advisor:** [**Dr. William Bement**](https://bement.cellimaging.wisc.edu/)
+**2017 – 2022 | University of Wisconsin – Madison | Advisor:** [**Dr. William Bement**](https://bement.cellimaging.wisc.edu/)
 - Used high speed live imaging and [computational analysis](https://github.com/zacswider/waveAnalysis/blob/main/README.md) and to study cell cycle regulation of cortical F-actin dynamics and GTPase crosstalk.
 
-**2015 – 2017  | NHLBI, NIH | Advisor:** [**Dr. Nasser Rusan**](https://www.rusanlab.com/)
+**2015 – 2017 | NHLBI, NIH | Advisor:** [**Dr. Nasser Rusan**](https://www.rusanlab.com/)
 - Used live imaging, RNAi screening, reverse genetics, and biochemistry to determine direct functional protein interactions necessary for normal division of Drosophila neural stem cells.
 
 **2013 – 2015 | University of California, Santa Cruz | Advisor:** [**Dr. William Sullivan**](https://sullivan.mcdb.ucsc.edu/)
