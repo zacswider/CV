@@ -1,9 +1,9 @@
 _Graduate student in the [Bement Lab](https://bement.cellimaging.wisc.edu/) at the University of Wisconsin - Madison. Nine years of experience using advanced fluorescence microscopy techniques to answer complex research questions. Passionate about advancing and integrating modern computational data analysis into daily use. Self-motivated, enthusiastic team player seeking employment with a like-minded team._
 
 ## Education
-_Current_    *Ph.D.          University of Wisconsin, Madison*  
-2016     *Technical Training    Analytical and Quantitative Light Microscopy* (MBL, Woods Hole)  
-2015     *B.S.          Cell and Molecular Biology - University of California, Santa Cruz*  
+2022 *Ph.D.        University of Wisconsin, Madison*  
+2016 *Technical Training  Analytical and Quantitative Light Microscopy* (MBL, Woods Hole)  
+2015 *B.S.        Cell and Molecular Biology - University of California, Santa Cruz*  
 
 ## Technical Skills
 
@@ -32,16 +32,16 @@ _Extensive experience using insect and mammalian cell culture for knockdown scre
 _Co-managed a shared imaging facility (1 Bruker swept field confocal, 1 Prairie point scanning confocal, 1 Olympus FV1000 confocal, 1 Flamingo light sheet system) to maximize system use, minimize the impact of routine maintenance, and enhance system features. Educated new users on system features, analysis techniques, and best practices._
 
 ## Research experience
-2017 – present     University of Wisconsin – Madison          Advisor: [Dr. William Bement](https://bement.cellimaging.wisc.edu/)
+**2017 – present University of Wisconsin – Madison     Advisor:** [**Dr. William Bement**](https://bement.cellimaging.wisc.edu/)
 - Used high speed live imaging and [computational analysis](https://github.com/zacswider/waveAnalysis/blob/main/README.md) and to study cell cycle regulation of cortical F-actin dynamics and GTPase crosstalk.
 
-2015 – 2017      National Heart, Lung, and Blood Institute, NIH     Advisor: [Dr. Nasser Rusan](https://www.rusanlab.com/)
+**2015 – 2017  NHLBI, NIH                Advisor:** [**Dr. Nasser Rusan**](https://www.rusanlab.com/)
 - Used live imaging, RNAi screening, reverse genetics, and biochemistry to determine direct functional protein interactions necessary for normal division of Drosophila neural stem cells.
 
-2013 – 2015      University of California, Santa Cruz          Advisor: [Dr. William Sullivan](https://sullivan.mcdb.ucsc.edu/)
+**2013 – 2015  University of California, Santa Cruz     Advisor:** [**Dr. William Sullivan**](https://sullivan.mcdb.ucsc.edu/)
 - Used microscopy-based forward genetic screen in Drosophila embryos to identify and characterize the role of the Drosophila Sec1/Munc18 homolog during cytokinesis.
 
-2013          Oregon Institute of Marine Biology          Advisor: [Dr. George von Dassow](http://gvondassow.com/Research_Site/Home.html)
+**2013     Oregon Institute of Marine Biology     Advisor:** [**Dr. George von Dassow**](http://gvondassow.com/Research_Site/Home.html)
 - Used live imaging and IHC to identify a putative role for the _Micrura alaskensis_ homolog of Orthodenticle in promoting the differentiation of cells that make up the primary ciliated band.
 
 
