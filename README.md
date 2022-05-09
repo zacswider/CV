@@ -1,10 +1,11 @@
-_Graduate student in the [Bement Lab](https://bement.cellimaging.wisc.edu/) at the University of Wisconsin - Madison. Nine years of experience using advanced fluorescence microscopy techniques to answer complex research questions. Passionate about advancing and integrating modern computational data analysis into daily use. Self-motivated, enthusiastic team player seeking employment with a like-minded team._
+_Graduate student in the [Bement Lab](https://bement.cellimaging.wisc.edu/) at the University of Wisconsin - Madison. Passionate about microscopes, fluorescence, and integrating modern computational image analysis into daily use. Self-motivated, enthusiastic team player seeking employment with a like-minded team._
 
 ## Technical Skills
 
 ### Computational
-_Demonstrated use of Python and the FIJI macro language to develop analysis scripts for individual use as well as custom workflows for batch analysis. Practical experience with image filtering and segmentation for quantitative analysis and training machine learning models. This is currently my greatest area of both interest and growth._  
-*Relevant GitHub repositories:*  
+_Demonstrated use of Python and the FIJI macro language to develop analysis scripts for individual use as well as custom workflows for batch analysis. Practical experience with image filtering and segmentation for quantitative analysis and training machine learning models. This is currently my greatest area of both interest and growth._   
+
+**Relevant GitHub repositories:**  
 - Batch analysis approach to quantifying oscillatory dynamics in living cells [README](https://github.com/zacswider/waveAnalysis/blob/main/README.md)
 - Interactive interface for visualizing frame-wise and cumulative optical flow [README](https://github.com/zacswider/opticalFlow/blob/main/README.md)
 - FIJI macros for routine processing of confocal images [README](https://github.com/zacswider/Macros/blob/main/README.md)
