@@ -6,6 +6,7 @@ _Graduate student in the [Bement Lab](https://bement.cellimaging.wisc.edu/) at t
 _Demonstrated use of Python and the FIJI macro language to develop analysis scripts for individual use as well as custom workflows for batch analysis. Practical experience with image filtering and segmentation for quantitative analysis and training machine learning models. This is currently my greatest area of both interest and growth._   
 
 **Relevant GitHub repositories:**  
+- Semi-automated approach to quantify the relative orientation of mitotic spindles and individual cells in the context of an epithelium README](https://github.com/zacswider/volume-distribution/blob/main/README.md)
 - Batch analysis approach to quantifying oscillatory dynamics in living cells [README](https://github.com/zacswider/waveAnalysis/blob/main/README.md)
 - Interactive interface for visualizing frame-wise and cumulative optical flow [README](https://github.com/zacswider/opticalFlow/blob/main/README.md)
 - FIJI macros for routine processing of confocal images [README](https://github.com/zacswider/Macros/blob/main/README.md)
