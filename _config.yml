@@ -1,9 +1,1 @@
-title: Zac Swider's Homepage
-email: zac.swider@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is Zac Swider's digital CV.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zacswider.github.io" # the base hostname & protocol for your site
-twitter_username: @ZacSwider
-github_username:  zacswider
-theme: minima
+theme: jekyll-theme-slate
