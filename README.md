@@ -70,7 +70,7 @@ _I have an extensive background using advanced fluorescence imaging approaches t
 - Tested hardware and software for a [modular and  highly portable light-sheet microscope](huiskenlab.com/flamingo), identifying hardware limitations and bug fixes for increased imaging speed and precision.
 
 *Relevant publications:*  
-- [Cell cycle and developmental control of cortical excitability in Xenopus laevis](https://pubmed.ncbi.nlm.nih.gov/35594176/)
+- [Cell cycle and developmental control of cortical excitability in Xenopus laevis](https://pubmed.ncbi.nlm.nih.gov/35594176/) *MBoC Early Career Paper Award
 - [A versatile cortical pattern-forming circuit based on Rho, F-actin, Ect2, and RGA-3/4](https://pubmed.ncbi.nlm.nih.gov/35708547/)
 - [Rho and F-actin self-organize within an artificial cell cortex](https://pubmed.ncbi.nlm.nih.gov/34739819/)
 - [Cross-talk-dependent cortical patterning of Rho GTPases during cell repair](https://pubmed.ncbi.nlm.nih.gov/34133216/)
